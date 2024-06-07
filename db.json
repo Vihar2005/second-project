@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "test",
+      "age": 22,
+      "salary": 25000
+    },
+    {
+      "name": "raxit",
+      "age": "12",
+      "salary": "2120",
+      "id": 2
+    },
+    {
+      "name": "raxit",
+      "age": "12",
+      "salary": "417528",
+      "id": 4
+    }
+  ]
+}
