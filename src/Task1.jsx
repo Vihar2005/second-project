@@ -7,7 +7,7 @@ const Task1 = () => {
     }
   return (
     <div>
-      <h3>Counter is - {count}</h3>
+      <h3>Counter is : {count}</h3>
       <button onClick={()=>setCount(count+1)}>Add</button>
       <button onClick={remove}>Remove</button>
     </div>
