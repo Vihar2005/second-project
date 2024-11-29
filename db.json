@@ -1,16 +1,10 @@
 {
   "users": [
     {
-      "name": "vihar",
-      "age": "12",
-      "salary": "152462",
+      "name": "mk",
+      "age": "20",
+      "salary": "10202",
       "id": 2
-    },
-    {
-      "name": "vihar",
-      "age": "12",
-      "salary": "15222",
-      "id": 3
     }
   ]
 }

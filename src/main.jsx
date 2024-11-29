@@ -47,16 +47,22 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     // <Classcomponent color="red"/>
     // <Task1 /> 
     // <Task1Class /> 
-    //  <ObjectAccess /> 
+     <ObjectAccess /> 
     //  <Viewlist /> 
-      // <JsonserverCrud /> 
+    // <JsonserverCrud /> 
     // {/* <SelectAll /> */}
     // {/* <Selectdata /> */}
     // {/* <SelectdataApi /> */}
     // <Usememo />
+    // <LocalstoregeCrud />
+    // <Useref />
+    // <LifecycleClasss />
+    // <Lifecyclefunction color='green' />
+    // <UseContext />
+    // <UsecontextEx />
     // <CallMethod />
     // <ApplyMethod />
-      <BindMethod />
+      // <BindMethod />
     // <BrowserRouter>
     // <Manu />
     //   <Routes>
@@ -80,7 +86,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       //   <Route path='/lifecycle' element={<LifecycleClasss  color='blue'/>}></Route>
       //   <Route path='/lifecyclefunc' element={<Lifecyclefunction  color='green'/>}></Route> 
         // <Route path='/usememo' element={<Usememo />}></Route>
-      //   <Route path='/usecontext' element={<UseContext />}></Route>
+        // <Route path='/usecontext' element={<UseContext />}></Route>
         // <Route path='/usecontextEx' element={<UsecontextEx />}></Route>
       //   <Route path='/useref' element={<Useref />}></Route>
       //   <Route path='/localstorege' element={<LocalstoregeCrud />}></Route> */}

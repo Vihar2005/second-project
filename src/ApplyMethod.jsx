@@ -24,7 +24,7 @@ const ApplyMethod = () => {
 
     const printname = person1.fullName.apply(person2)
 
-    return (
+    return ( 
         <div>
             <h2>Apply Method</h2>
             <p>Fullname == {printname}</p>

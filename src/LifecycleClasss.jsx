@@ -27,7 +27,7 @@ export default class LifecycleClasss extends Component {
   shouldComponentUpdate() {
     console.log('should component update called....');
     // return true;
-    return false;
+    return true;
   }
   getSnapshotBeforeUpdate(prevProps,PrevState) {
     console.log('get Snapshot Before update called.....');
